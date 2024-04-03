@@ -1,0 +1,14 @@
+/Users/travisallan/Projects/PowerballParser/PowerballParser/bin/Debug/net8.0/PowerballParser
+/Users/travisallan/Projects/PowerballParser/PowerballParser/bin/Debug/net8.0/PowerballParser.deps.json
+/Users/travisallan/Projects/PowerballParser/PowerballParser/bin/Debug/net8.0/PowerballParser.runtimeconfig.json
+/Users/travisallan/Projects/PowerballParser/PowerballParser/bin/Debug/net8.0/PowerballParser.dll
+/Users/travisallan/Projects/PowerballParser/PowerballParser/bin/Debug/net8.0/PowerballParser.pdb
+/Users/travisallan/Projects/PowerballParser/PowerballParser/obj/Debug/net8.0/PowerballParser.GeneratedMSBuildEditorConfig.editorconfig
+/Users/travisallan/Projects/PowerballParser/PowerballParser/obj/Debug/net8.0/PowerballParser.AssemblyInfoInputs.cache
+/Users/travisallan/Projects/PowerballParser/PowerballParser/obj/Debug/net8.0/PowerballParser.AssemblyInfo.cs
+/Users/travisallan/Projects/PowerballParser/PowerballParser/obj/Debug/net8.0/PowerballParser.csproj.CoreCompileInputs.cache
+/Users/travisallan/Projects/PowerballParser/PowerballParser/obj/Debug/net8.0/PowerballParser.dll
+/Users/travisallan/Projects/PowerballParser/PowerballParser/obj/Debug/net8.0/refint/PowerballParser.dll
+/Users/travisallan/Projects/PowerballParser/PowerballParser/obj/Debug/net8.0/PowerballParser.pdb
+/Users/travisallan/Projects/PowerballParser/PowerballParser/obj/Debug/net8.0/PowerballParser.genruntimeconfig.cache
+/Users/travisallan/Projects/PowerballParser/PowerballParser/obj/Debug/net8.0/ref/PowerballParser.dll
